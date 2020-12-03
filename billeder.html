@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Daniel Moesby">
+    <meta name="keywords" content="portfolio,multimediedesigner,grafik,marketing,programmering">
+    <title>Billeder</title>
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="./images/moestownlogohvid.png">
+
+        <div id="sideNav" class="sideNav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="index.html">Projekter</a>
+            <a href="minprofil.html">Min Profil</a>
+            <a href="kontakt.html">Kontakt</a>
+
+        </div>
+
+        <div id="main">
+            <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+        </div>
+
+        <script>
+            function openNav() {
+                document.getElementById("sideNav").style.width = "400px";
+                document.getElementById("main").style.marginRight = "0px";
+            }
+
+            function closeNav() {
+                document.getElementById("sideNav").style.width = "0";
+                document.getElementById("main").style.marginRight = "0";
+            }
+        </script>
+    </header>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis voluptate numquam accusantium illum nesciunt vero eveniet maxime debitis dicta molestiae incidunt quidem ipsum, excepturi consequatur quos a blanditiis porro doloremque rem. Laborum
+        obcaecati blanditiis dolorem cupiditate illo ea libero. Sit facere repellat quidem pariatur quaerat eos sequi excepturi itaque dolore iusto, qui nemo fuga consectetur magnam esse maxime nulla accusantium corrupti culpa ducimus inventore quos nam
+        tenetur. Fugiat quam officia perspiciatis ex porro corrupti cumque saepe, quo praesentium earum sequi autem, expedita nesciunt consequuntur corporis dolores iusto? Voluptatum eum esse nostrum hic natus deserunt, tempora quibusdam reprehenderit
+        eveniet quod blanditiis?</p>
+
+    <footer>
+
+        <div class="footerlogo">
+            <img src="./images/moestownlogohvid.png" alt="moestownlogo"></div>
+
+        <div class="line"></div>
+
+        <section class="mediaknapper">
+            <a href="https://www.facebook.com/daniel.moesby/">
+                <img src="./images/FacebookHvid.png" alt="facebook"></a>
+
+            <a href="https://www.instagram.com/danielmoesby/">
+                <img src="./images/InstagramHvid.png" alt="instagram"></a>
+
+            <a href="https://www.linkedin.com/in/daniel-moesby-727205140/">
+                <img src="./images/LinkedInHvid.png" alt="linkedin"></a>
+
+            </div>
+        </section>
+
+        <div class="copyright">
+            <p>Copyright © Daniel Moesby, 2020</p>
+        </div>
+
+
+    </footer>
+</body>
+
+</html>
