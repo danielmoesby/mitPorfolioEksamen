@@ -91,3 +91,53 @@ header {
     padding: 25px;
     font-size: 30px;
 }
+
+
+/* Footer */
+
+footer {
+    background-color: var(--green-color);
+    margin-top: 40rem;
+}
+
+.footerlogo {
+    padding-top: 1rem;
+    width: 10%;
+}
+
+.footerlogo img {
+    width: 153px;
+    height: 153px;
+    margin-left: 6.5rem;
+}
+
+.line {
+    box-sizing: border-box;
+    border: solid 1px var(--white-color);
+    margin-left: 2rem;
+    height: 3px;
+    width: 19rem;
+}
+
+.mediaknapper {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2.4rem;
+    margin-top: 3rem;
+}
+
+.mediaknapper img {
+    width: 4rem;
+    margin-right: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.mediaknapper img:hover {
+    cursor: pointer;
+}
+
+.copyright {
+    color: var(--white-color);
+    text-align: center;
+    padding: 3rem;
+}
