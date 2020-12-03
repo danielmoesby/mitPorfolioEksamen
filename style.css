@@ -97,7 +97,7 @@ header {
 
 footer {
     background-color: var(--green-color);
-    margin-top: 40rem;
+    margin-top: 3rem;
 }
 
 .footerlogo {
@@ -138,6 +138,7 @@ footer {
 
 .copyright {
     color: var(--white-color);
+    font-weight: bold;
     text-align: center;
     padding: 3rem;
 }
