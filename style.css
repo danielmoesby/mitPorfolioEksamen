@@ -132,7 +132,7 @@
         text-align: center;
         padding: 3rem;
     }
-    /* Fælles afsnit for overskrifter og brødtekst */
+    /* Fælles afsnit for standard overskrifter og brødtekst */
     
     .overskrift {
         font-size: 30px;
@@ -156,6 +156,7 @@
         margin: 2rem;
         color: var(--font-color)
     }
+    /* Projekt Side */
     /* Profil Side */
     
     .kompetenceikoner {
@@ -179,4 +180,21 @@
         line-height: 1.5;
         margin-left: 2rem;
         color: var(--font-color);
+    }
+    /* Kontakt Side */
+    
+    .kontaktikoner {
+        margin-left: 10rem;
+        margin-top: 1rem;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .overskriftikonerstrong {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 1.;
+        text-align: center;
+        margin: 2rem;
+        color: var(--font-color)
     }
