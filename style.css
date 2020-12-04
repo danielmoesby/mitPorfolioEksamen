@@ -160,6 +160,10 @@
     }
     /* Projekt Side */
     
+    .portfoliobillede {
+        margin-top: -3.5rem;
+    }
+    
     .overskriftprojekt {
         font-size: 30px;
         font-weight: bold;
