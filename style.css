@@ -131,6 +131,8 @@
         font-weight: bold;
         text-align: center;
         padding: 3rem;
+        margin-top: -0.1rem;
+        background-color: var(--green-color);
     }
     /* Fælles afsnit for standard overskrifter og brødtekst */
     
@@ -157,6 +159,25 @@
         color: var(--font-color)
     }
     /* Projekt Side */
+    
+    .overskriftprojekt {
+        font-size: 30px;
+        font-weight: bold;
+        color: var(--font-color);
+        text-align: center;
+        padding: 2rem;
+        margin-top: 2rem;
+        background-color: var(--grey-color)
+    }
+    
+    .projekt-container {
+        display: grid;
+        grid-row-gap: 4rem;
+        margin-top: -0.2rem;
+        padding: 5rem;
+        justify-content: center;
+        background-color: var(--grey-color);
+    }
     /* Profil Side */
     
     .kompetenceikoner {
