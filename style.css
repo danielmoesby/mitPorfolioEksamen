@@ -285,3 +285,35 @@
         margin-right: auto;
     }
     /* Billeder Underside */
+    
+    .venedigbillede {
+        width: 80%;
+        padding-top: 2.5rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .greendorbillede {
+        width: 80%;
+        padding-top: 2rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .annecybillede {
+        width: 80%;
+        padding-top: 2rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .solnedgangbillede {
+        width: 80%;
+        padding-top: 2rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
