@@ -182,6 +182,10 @@
     .projekt-container:hover {
         cursor: pointer;
     }
+    
+    .footerprojektsidefix {
+        margin-top: -5rem;
+    }
     /* Profil Side */
     
     .kompetenceikoner {
