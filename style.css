@@ -233,6 +233,24 @@
         margin-right: auto;
     }
     /* Dans Dans Dans Underside */
+    
+    .dansbilledecontemporary {
+        margin-top: 2rem;
+        width: 176px;
+        height: 382px;
+    }
+    
+    .dansbilledestandard {
+        margin-top: 2rem;
+        width: 133px;
+        height: 641px;
+    }
+    
+    .dansbilleder {
+        display: flex;
+        margin: 1rem;
+        justify-content: space-between;
+    }
     /* Bag Rattet Underside */
     /* Video Underside */
     /* Billeder Underside */
