@@ -178,6 +178,10 @@
         justify-content: center;
         background-color: var(--grey-color);
     }
+    
+    .projekt-container:hover {
+        cursor: pointer;
+    }
     /* Profil Side */
     
     .kompetenceikoner {
