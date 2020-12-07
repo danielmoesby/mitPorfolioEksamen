@@ -143,6 +143,30 @@
                                 text-align: center;
                             }
                             
+                            .overskriftkompentence {
+                                font-size: 30px;
+                                font-weight: bold;
+                                color: var(--font-color);
+                                text-align: center;
+                            }
+                            
+                            .broedtekstkompetence {
+                                font-size: 22px;
+                                font-weight: 400;
+                                line-height: 1.5;
+                                margin: 2rem;
+                                text-align: center;
+                                color: var(--font-color);
+                            }
+                            
+                            .broedtekstkontakt {
+                                font-size: 22px;
+                                font-weight: 400;
+                                line-height: 1.5;
+                                margin: 2rem;
+                                color: var(--font-color);
+                            }
+                            
                             .broedtekst {
                                 font-size: 22px;
                                 font-weight: 400;
@@ -393,18 +417,34 @@
                                     margin-left: 23rem;
                                     margin-bottom: 1rem;
                                 }
+                                .overskriftkompentence {
+                                    font-size: 30px;
+                                    font-weight: bold;
+                                    color: var(--font-color);
+                                    text-align: center;
+                                    padding-top: 3rem;
+                                }
                                 .kompetenceikoner {
-                                    margin-left: 6.5rem;
+                                    margin-left: 35rem;
                                     margin-top: 1rem;
                                     width: 150px;
                                     height: 150px;
                                 }
+                                .broedtekstkompetence {
+                                    font-size: 22px;
+                                    font-weight: 400;
+                                    line-height: 1.5;
+                                    margin: 2rem;
+                                    text-align: center;
+                                    color: var(--font-color);
+                                }
                                 .overskriftuddjob {
                                     font-size: 30px;
                                     font-weight: bold;
+                                    text-align: center;
                                     color: var(--font-color);
                                     margin-left: 0.5rem;
-                                    padding: 1.5rem;
+                                    padding-top: 2.5rem;
                                 }
                                 .broedtekstuddjob {
                                     font-size: 22px;
@@ -413,6 +453,119 @@
                                     margin-left: 2rem;
                                     color: var(--font-color);
                                 }
-                                /* Kontaktside */
-                                /* Kontakt Side */
+                                .uddannelse {
+                                    margin-left: 12rem;
+                                }
+                                .job {
+                                    margin-left: 12rem;
+                                }
+                                .flexuddannelsejob {
+                                    padding-top: 3rem;
+                                    display: flex
+                                }
+                                /* Kontakt side */
+                                .kontaktikoner {
+                                    margin-left: 38.5rem;
+                                    margin-top: 1rem;
+                                    width: 50px;
+                                    height: 50px;
+                                }
+                                .broedtekstkontakt {
+                                    font-size: 22px;
+                                    font-weight: 400;
+                                    line-height: 1.5;
+                                    text-align: center;
+                                    margin: 2rem;
+                                    color: var(--font-color);
+                                }
+                                /* Rumrejsen Projektside */
+                                .rumrejsenbillede {
+                                    width: 60%;
+                                    padding: 2rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                /* Dans Projektside */
+                                .dansbilledecontemporary {
+                                    margin-top: 2rem;
+                                    width: 250px;
+                                    height: 500px;
+                                }
+                                .dansbilledestandard {
+                                    margin-top: 2rem;
+                                    width: 216px;
+                                    height: 834px;
+                                    margin-bottom: 2rem;
+                                }
+                                .dansbilleder {
+                                    display: flex;
+                                    margin: 1rem;
+                                    margin-left: 20rem;
+                                    margin-right: 20rem;
+                                }
+                                /* Bag Rattet Projektside */
+                                .bagrattetbillede {
+                                    width: 60%;
+                                    padding: 2rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                /* Video Projektside */
+                                .jensbilledeforfra {
+                                    width: 60%;
+                                    padding: 1.5rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                .jensbilledewall {
+                                    width: 60%;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                .jensbilledebagfra {
+                                    width: 60%;
+                                    padding: 1.5rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                /* Billeder Projektside */
+                                .billedegalleri {
+                                    margin-bottom: 2rem;
+                                    display: flex;
+                                }
+                                .venedigbillede {
+                                    width: 35%;
+                                    padding-top: 3.5rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                .greendorbillede {
+                                    width: 35%;
+                                    padding-top: 3.5rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                .annecybillede {
+                                    width: 35%;
+                                    padding-top: 2rem;
+                                    margin-bottom: 2rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
+                                .solnedgangbillede {
+                                    width: 35%;
+                                    padding-top: 2rem;
+                                    margin-bottom: 2rem;
+                                    display: block;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                }
                             }
