@@ -578,7 +578,7 @@
                                                     }
                                                     /* Responsive 1440px */
                                                     
-                                                    @media only screen and (min-width: 1440px) {
+                                                    @media only screen and (min-width: 1400px) {
                                                         /* Navigation */
                                                         /* Footer */
                                                         .footerlogo {
@@ -595,11 +595,11 @@
                                                             border: solid 1px var(--white-color);
                                                             margin-left: 2rem;
                                                             height: 3px;
-                                                            width: 86rem;
+                                                            width: 83.5rem;
                                                         }
                                                         /* Projektside */
                                                         .portfoliobillede {
-                                                            margin-left: 33rem;
+                                                            margin-left: 32.5rem;
                                                         }
                                                         .projekt-container {
                                                             display: grid;
@@ -668,7 +668,7 @@
                                                         }
                                                         /* Kontakt side */
                                                         .kontaktikoner {
-                                                            margin-left: 44rem;
+                                                            margin-left: 43rem;
                                                             margin-top: 1rem;
                                                             width: 50px;
                                                             height: 50px;
@@ -701,7 +701,7 @@
                                                         .footerlogo img {
                                                             width: 153px;
                                                             height: 153px;
-                                                            margin-left: 39.5rem;
+                                                            margin-left: 55rem;
                                                         }
                                                         .line {
                                                             box-sizing: border-box;
@@ -712,7 +712,7 @@
                                                         }
                                                         /* Projektside */
                                                         .portfoliobillede {
-                                                            margin-left: 33rem;
+                                                            margin-left: 48rem;
                                                         }
                                                         .projekt-container {
                                                             display: grid;
@@ -731,7 +731,7 @@
                                                         /* Profil side */
                                                         .danielprofil {
                                                             width: 40%;
-                                                            margin-left: 27rem;
+                                                            margin-left: 36rem;
                                                             margin-bottom: 1rem;
                                                         }
                                                         .overskriftkompentence {
@@ -742,7 +742,7 @@
                                                             padding-top: 3rem;
                                                         }
                                                         .kompetenceikoner {
-                                                            margin-left: 40.5rem;
+                                                            margin-left: 55rem;
                                                             margin-top: 1rem;
                                                             width: 150px;
                                                             height: 150px;
@@ -770,10 +770,10 @@
                                                             color: var(--font-color);
                                                         }
                                                         .uddannelse {
-                                                            margin-left: 15.5rem;
+                                                            margin-left: 26rem;
                                                         }
                                                         .job {
-                                                            margin-left: 15.5rem;
+                                                            margin-left: 26rem;
                                                         }
                                                         .flexuddannelsejob {
                                                             padding-top: 3rem;
@@ -781,7 +781,7 @@
                                                         }
                                                         /* Kontakt side */
                                                         .kontaktikoner {
-                                                            margin-left: 44rem;
+                                                            margin-left: 59rem;
                                                             margin-top: 1rem;
                                                             width: 50px;
                                                             height: 50px;
@@ -800,5 +800,23 @@
                                                             text-align: center;
                                                             color: var(--font-color);
                                                             padding: 1.5rem;
+                                                        }
+                                                        /* Dans Projektside */
+                                                        .dansbilledecontemporary {
+                                                            margin-top: 2rem;
+                                                            width: 250px;
+                                                            height: 500px;
+                                                        }
+                                                        .dansbilledestandard {
+                                                            margin-top: 2rem;
+                                                            width: 216px;
+                                                            height: 834px;
+                                                            margin-bottom: 2rem;
+                                                        }
+                                                        .dansbilleder {
+                                                            display: flex;
+                                                            margin: 1rem;
+                                                            margin-left: 33rem;
+                                                            margin-right: 33rem;
                                                         }
                                                     }
