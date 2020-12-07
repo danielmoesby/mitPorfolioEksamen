@@ -325,3 +325,26 @@
         margin-left: auto;
         margin-right: auto;
     }
+    /* Buttons til projektsiderne */
+    
+    .buttons {
+        padding: 2rem;
+        text-align: center;
+        justify-content: space-between;
+    }
+    
+    .btn {
+        border: none;
+        color: var(--white-color);
+        background-color: var(--green-color);
+        margin: 1.3rem;
+        padding: 14px 28px;
+        justify-content: center;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+    }
+    
+    .btn:hover {
+        background: #3F655F;
+    }
