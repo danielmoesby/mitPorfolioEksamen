@@ -368,6 +368,7 @@
                                                                 
                                                                 .btn {
                                                                     border: none;
+                                                                    text-decoration: none;
                                                                     color: var(--white-color);
                                                                     background-color: var(--green-color);
                                                                     margin: 1.3rem;
@@ -454,13 +455,13 @@
                                                                     }
                                                                     .projekt-container {
                                                                         display: grid;
-                                                                        grid-template-columns: auto 10rem auto auto;
+                                                                        grid-template-columns: auto auto auto;
                                                                         margin-top: -0.2rem;
                                                                         margin-bottom: 5rem;
                                                                         padding: 5rem;
                                                                         padding-top: 2rem;
                                                                         cursor: pointer;
-                                                                        justify-content: center;
+                                                                        justify-content: space-between;
                                                                         background-color: var(--grey-color);
                                                                     }
                                                                     .projekt-container:hover {
@@ -682,13 +683,13 @@
                                                                     }
                                                                     .projekt-container {
                                                                         display: grid;
-                                                                        grid-template-columns: auto 10rem auto auto;
+                                                                        grid-template-columns: auto auto auto;
                                                                         margin-top: -0.2rem;
                                                                         margin-bottom: 5rem;
                                                                         padding: 5rem;
                                                                         padding-top: 2rem;
                                                                         cursor: pointer;
-                                                                        justify-content: center;
+                                                                        justify-content: space-between;
                                                                         background-color: var(--grey-color);
                                                                     }
                                                                     .projekt-container:hover {
@@ -816,13 +817,13 @@
                                                                     }
                                                                     .projekt-container {
                                                                         display: grid;
-                                                                        grid-template-columns: auto 10rem auto auto;
+                                                                        grid-template-columns: auto auto auto auto auto;
                                                                         margin-top: -0.2rem;
                                                                         margin-bottom: 5rem;
                                                                         padding: 5rem;
                                                                         padding-top: 2rem;
                                                                         cursor: pointer;
-                                                                        justify-content: center;
+                                                                        justify-content: space-between;
                                                                         background-color: var(--grey-color);
                                                                     }
                                                                     .projekt-container:hover {
