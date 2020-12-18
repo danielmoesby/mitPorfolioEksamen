@@ -148,6 +148,8 @@
                                                                     font-weight: bold;
                                                                     color: var(--font-color);
                                                                     text-align: center;
+                                                                    margin-bottom: 2.5rem;
+                                                                    padding: 2rem;
                                                                 }
                                                                 
                                                                 .broedtekstkompetence {
@@ -157,6 +159,7 @@
                                                                     margin: 2rem;
                                                                     text-align: center;
                                                                     color: var(--font-color);
+                                                                    padding-bottom: 2.5rem;
                                                                 }
                                                                 
                                                                 .broedtekstkontakt {
