@@ -397,6 +397,12 @@
                                                                     #kontakt {
                                                                         display: none;
                                                                     }
+                                                                    /* Profil side */
+                                                                    .danielprofil {
+                                                                        width: 70%;
+                                                                        margin-left: 3.5rem;
+                                                                        margin-bottom: 1rem;
+                                                                    }
                                                                 }
                                                                 /* Responsive 1280px */
                                                                 
