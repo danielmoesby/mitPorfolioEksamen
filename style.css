@@ -225,6 +225,42 @@ footer {
     background-color: var(--grey-color);
 }
 
+.rumrejsen img {
+    width: 300px;
+}
+
+.dans img {
+    width: 300px;
+}
+
+.bagrattet img {
+    width: 300px;
+}
+
+.video img {
+    width: 300px;
+}
+
+.billeder img {
+    width: 300px;
+}
+
+.pechakucha img {
+    width: 300px;
+}
+
+.klub img {
+    width: 300px;
+}
+
+.soundstage img {
+    width: 300px;
+}
+
+.ecommerce img {
+    width: 300px;
+}
+
 .projekt-container:hover {
     cursor: pointer;
 }
@@ -415,6 +451,15 @@ footer {
 
 .btn:hover {
     background: #3F655F;
+}
+
+
+/* UPDATE NEEDED SIDE */
+
+.homersimpson {
+    width: 200px;
+    margin-left: 5rem;
+    padding-top: 2rem;
 }
 
 
@@ -666,6 +711,11 @@ footer {
         margin-left: auto;
         margin-right: auto;
     }
+    /* UPDATE NEEDED SIDE*/
+    .homersimpson {
+        width: 300px;
+        margin-left: 32rem;
+    }
 }
 
 
@@ -814,6 +864,11 @@ footer {
         color: var(--font-color);
         padding: 1.5rem;
     }
+    /* UPDATE NEEDED SIDE*/
+    .homersimpson {
+        width: 300px;
+        margin-left: 36rem;
+    }
 }
 
 
@@ -862,14 +917,14 @@ footer {
     .footerlogo img {
         width: 153px;
         height: 153px;
-        margin-left: 50.5rem;
+        margin-left: 50rem;
     }
     .line {
         box-sizing: border-box;
         border: solid 1px var(--white-color);
         margin-left: 2rem;
         height: 3px;
-        width: 107rem;
+        width: 106rem;
     }
     /* Projektside */
     .portfoliobillede {
@@ -961,6 +1016,11 @@ footer {
         text-align: center;
         color: var(--font-color);
         padding: 1.5rem;
+    }
+    /* UPDATE NEEDED SIDE*/
+    .homersimpson {
+        width: 300px;
+        margin-left: 47rem;
     }
 }
 
@@ -1115,5 +1175,10 @@ footer {
         margin: 1rem;
         margin-left: 33rem;
         margin-right: 33rem;
+    }
+    /* UPDATE NEEDED SIDE*/
+    .homersimpson {
+        width: 350px;
+        margin-left: 51rem;
     }
 }
