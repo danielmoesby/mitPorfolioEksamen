@@ -200,10 +200,32 @@ footer {
 }
 
 
+/* Speciel version af tekst til forside*/
+
+.broedtekstforside {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 2rem;
+    color: var(--font-color);
+    margin-bottom: 4rem;
+}
+
+.broedtekststrongforside {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1.;
+    margin: 2rem;
+    color: var(--font-color);
+}
+
+
 /* Projekt Side */
 
 .portfoliobillede {
-    margin-top: -3.5rem;
+    width: 90%;
+    margin-left: 1.2rem;
+    margin-bottom: 1rem;
 }
 
 .overskriftprojekt {
@@ -540,7 +562,9 @@ footer {
     }
     /* Projektside */
     .portfoliobillede {
-        margin-left: 28rem;
+        width: 45%;
+        margin-left: 22rem;
+        margin-bottom: 1rem;
     }
     .projekt-container {
         display: grid;
@@ -605,6 +629,24 @@ footer {
     .flexuddannelsejob {
         padding-top: 3rem;
         display: flex
+    }
+    /* Speciel version af tekst til forside*/
+    .broedtekstforside {
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 1.5;
+        margin: 2rem;
+        color: var(--font-color);
+        margin-bottom: 4rem;
+        text-align: center;
+    }
+    .broedtekststrongforside {
+        font-size: 26px;
+        font-weight: 600;
+        line-height: 1.;
+        margin: 2rem;
+        color: var(--font-color);
+        text-align: center;
     }
     /* Kontakt side */
     .kontaktikoner {
@@ -775,7 +817,9 @@ footer {
     }
     /* Projektside */
     .portfoliobillede {
-        margin-left: 32.5rem;
+        width: 40%;
+        margin-left: 26rem;
+        margin-bottom: 1rem;
     }
     .projekt-container {
         display: grid;
@@ -928,7 +972,9 @@ footer {
     }
     /* Projektside */
     .portfoliobillede {
-        margin-left: 43.5rem;
+        width: 30%;
+        margin-left: 38rem;
+        margin-bottom: 1rem;
     }
     .projekt-container {
         display: grid;
@@ -1069,7 +1115,9 @@ footer {
     }
     /* Projektside */
     .portfoliobillede {
-        margin-left: 48rem;
+        width: 35%;
+        margin-left: 38rem;
+        margin-bottom: 1rem;
     }
     .projekt-container {
         display: grid;
