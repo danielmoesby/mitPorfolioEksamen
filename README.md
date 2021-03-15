@@ -1,1 +1,1 @@
-Dette er det afsluttende projekt på 1. semester på Multimediedesigner uddannelse på Zealand, Køge.
+Dette er eksamens-projektet på 1. semester, som Multimediedesigner studerende på Zealand i Køge.
