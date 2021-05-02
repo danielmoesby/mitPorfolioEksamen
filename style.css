@@ -283,6 +283,14 @@ footer {
     width: 300px;
 }
 
+.ux img {
+    width: 300px;
+}
+
+.probio img {
+    width: 300px;
+}
+
 .projekt-container:hover {
     cursor: pointer;
 }
